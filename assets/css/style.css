@@ -455,7 +455,7 @@ body.dark-theme {
 
 /*=============== HOME ===============*/
 .home {
-  background-image: url(blob:https://www.watermarkremover.io/064485ac-21d4-45a8-b0bc-67f473d28826);
+  background: url(https://img.freepik.com/vector-gratis/fondo-realista-negro-formas-geometricas-plateadas_1017-30668.jpg?w=1380&t=st=1668125172~exp=1668125772~hmac=2323de1cb52d1a70e45111813e34b634e02656a77836ddfecb22d1cad1779b68);
 }
 
 .home__container {
